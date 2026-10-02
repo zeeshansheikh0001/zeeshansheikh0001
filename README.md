@@ -21,7 +21,7 @@ I'm a passionate Front-End Developer with a love for building modern, responsive
 
 ### 📫 Reach me at:
 - 📧 Email: `sheikhzeeshan0001@gmail.com`
-- 💼 LinkedIn: [linkedin.com/in/zeeshansheikh](https://www.linkedin.com/in/zeeshansheikh)
+- 💼 LinkedIn: [linkedin.com/in/zeeshansheikh](https://www.linkedin.com/in/zeeshan-s-80307abb)
 
 <!---
 zeeshansheikh0001/zeeshansheikh0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
